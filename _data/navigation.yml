@@ -1,4 +1,5 @@
-- title: Blog
-  url: /
 - title: About
-  url: /about/
+  url: /
+- title: CV
+  url: /CV/
+
