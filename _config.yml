@@ -2,7 +2,7 @@
 title: Chuhong Yuan
 description: Ph.D. student at Georgia Institute of Technology
 url: https://chyuan4gt.github.io
-avatar: /avatar.jpeg
+avatar: /chuhong.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -30,15 +30,9 @@ exclude:
 exclude: [vendor]
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+  name: Chuhong Yuan
 google_site_verification: xxxxx
 lang: en
 
@@ -57,4 +51,4 @@ sass:
 # Specify the author for blog posts
 author:
   name: Chuhong Yuan
-  email: vszhub@gmail.com
+  email: chyuan@gatech.edu
