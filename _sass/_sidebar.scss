@@ -7,8 +7,12 @@
   margin: auto;
   width: 100%;
 
-  a {
-    color: inherit;
+  a, small {
+    color: rgb(255,255,255);
+    text-shadow: -1px -1px 0 #000, 
+                  1px -1px 0 #000,
+                 -1px 1px 0 #000, 
+                  1px 1px 0 #000;
     text-decoration: none;
   }
 }
@@ -37,7 +41,7 @@
 .masthead-tagline {
   padding: 0;
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1.45rem;
   font-weight: 400;
   opacity: .7;
 }
@@ -55,9 +59,8 @@
 
 .navigation-item a {
   background: transparent;
-  color: inherit;
   letter-spacing: 0.05em;
-  font-size: 90%;
+  font-size: 95%;
   border-bottom: 2px solid;
   border-color: inherit;
 
