@@ -19,6 +19,14 @@ B.E. in Software Engineering
 
 ---
 
+# Work
+
+**Google LLC** <small>May 2022 - Aug 2022</small>
+
+Software Engineer, Mentor: Stefan Bucur
+
+---
+
 # Publications
 
 - **Chuhong Yuan**, Dong Du, Haibo Chen. Third-Eye: Practical and Context-Aware Inference of Causal Relationship Violations in Commodity Kernels, DIMVA 2021.
@@ -32,6 +40,10 @@ CVE-2019-20810
 ---
 
 # Teaching Experience
+
+Teaching Assistant of ***Information Security Lab*** <small>Fall 2022</small>
+
+Instructor: Prof. Taesoo Kim
 
 Teaching Assistant of ***Design and Implementation of Algorithms*** <small>Spring 2020</small> 
 
