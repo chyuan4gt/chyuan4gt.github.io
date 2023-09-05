@@ -35,13 +35,13 @@ Software Engineer, Mentor: Stefan Bucur
 
 # Vulnerability Disclosure
 
-CVE-2019-20810
+CVE-2019-20810, CVE-2023-40360
 
 ---
 
 # Teaching Experience
 
-Teaching Assistant of ***Information Security Lab*** <small>Fall 2022</small>
+Teaching Assistant of ***Information Security Lab*** <small>Fall 2022, Fall 2023</small>
 
 Instructor: Prof. Taesoo Kim
 
