@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am a **3rd year** Ph.D. student at Georgia Institute of Technology. My supervisor is **Prof. Taesoo Kim**.
+I am a **4th year** Ph.D. student at Georgia Institute of Technology. My supervisor is **Prof. Taesoo Kim**.
 
 Before coming to Gatech, I got my Bachelor's degree from Nanjing University and Master's degree from Shanghai Jiao Tong University.
 
