@@ -29,6 +29,7 @@ Software Engineer, Mentor: Stefan Bucur
 
 # Publications
 
+- Hang Zhang, Jangha Kim, **Chuhong Yuan**, Zhiyun Qian, Taesoo Kim. Statically Discover Complex Cross-Entry Use-After-Free Vulnerabilities in the Linux Kernel and Beyond, NDSS 2025.
 - **Chuhong Yuan**, Dong Du, Haibo Chen. Third-Eye: Practical and Context-Aware Inference of Causal Relationship Violations in Commodity Kernels, DIMVA 2021.
 
 ---
