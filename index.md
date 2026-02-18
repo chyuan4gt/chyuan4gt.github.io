@@ -3,8 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am a **5th year** Ph.D. student at Georgia Institute of Technology, self-advised during the journey.
-Self-advising is challenging, but it equips me with the confidence and resilience to address all obstacles.
+I am a **5th year** Ph.D. student at Georgia Institute of Technology, currently working with **Prof. Anand Iyer** on LLM inference systems.
 
 Before coming to Gatech, I got my Bachelor's degree from Nanjing University and my Master's degree from Shanghai Jiao Tong University.
 
