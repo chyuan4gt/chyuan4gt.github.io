@@ -5,9 +5,9 @@ title: CV
 
 # Education
 
-**Georgia Institute of Technology** <small>Aug 2021 - Aug 2026 (Expected)</small>
+**Georgia Institute of Technology** <small>Aug 2021 - May 2026</small>
 
-Ph.D. in Computer Science
+Research Assistant
 
 **Shanghai Jiao Tong University** <small>Sep 2018 - Jun 2021</small>
 
@@ -46,7 +46,7 @@ CVE-2019-20810, CVE-2023-40360, CVE-2023-42467, CVE-2024-24474, CVE-2024-3447
 
 # Teaching Experience
 
-Instructor of ***Introduction to LLM Inference Systems*** <small>Fall 2025</small>
+Instructor of ***Introduction to LLM Inference Systems*** <small>Fall 2025, Spring 2026</small>
 
 Teaching Assistant of ***Information Security Lab*** <small>Fall 2022, Fall 2023, Fall 2024</small>
 
