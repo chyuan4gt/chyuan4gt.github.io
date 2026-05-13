@@ -3,7 +3,9 @@ layout: page
 title: About Me
 ---
 
-I am a **5th year** Ph.D. student at Georgia Institute of Technology, currently working with **Prof. Anand Iyer** on LLM inference systems.
+I am going to join Google and work for the VertexAI GenAI Infra team in May 2026!
+
+I was a research assistant at Georgia Institute of Technology.
 
 Before coming to Gatech, I got my Bachelor's degree from Nanjing University and my Master's degree from Shanghai Jiao Tong University.
 
@@ -13,5 +15,5 @@ I found my soul as a systems researcher at IPADS, and I aspire to contribute to 
 # Research Interests
 
 My research interests focus on building system infrastructures for Large Language Models.
-Specifically, my ongoing projects involve optimizing the performance of LLM inference systems.
+Specifically, my ongoing projects involve designing policies for request routing and resource allocation to address the dynamic traffic of LLM.
 Before, I also studied bug detection in hypervisors and the Linux kernel by static analysis and fuzzing.
