@@ -21,6 +21,10 @@ B.E. in Software Engineering
 
 # Work
 
+**Google LLC** <small>May 2026 - present</small>
+
+Software Engineer at Cloud AI
+
 **Bytedance** <small>May 2025 - Aug 2025</small>
 
 Software Engineer, Mentor: Rain Jiang
@@ -33,6 +37,7 @@ Software Engineer, Mentor: Stefan Bucur
 
 # Publications
 
+- **Chuhong Yuan**, Hang Zhang, HyungSeok Han, Joshua Wang, Dae R. Jeong, Taesoo Kim. Kekule: Fuzzing Hypervisor Virtual Devices via Dependency-Edge-Covering Seed Gadgets, ACSAC 2026.
 - Hang Zhang, Jangha Kim, **Chuhong Yuan**, Zhiyun Qian, Taesoo Kim. Statically Discover Complex Cross-Entry Use-After-Free Vulnerabilities in the Linux Kernel and Beyond, NDSS 2025.
 - **Chuhong Yuan**, Dong Du, Haibo Chen. Third-Eye: Practical and Context-Aware Inference of Causal Relationship Violations in Commodity Kernels, DIMVA 2021.
 
